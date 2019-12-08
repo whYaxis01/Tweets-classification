@@ -1,0 +1,5 @@
+data/glove
+data/train_v2.csv
+data/test_v2.csv
+output/submission.csv
+output/weighhts_best.h5

@@ -1,0 +1,13 @@
+tarfile
+zipfile
+numpy
+urllib
+pandas
+string
+re
+nltk
+sklearn
+gc
+keras
+tensorflow-gpu=1.14
+glob
